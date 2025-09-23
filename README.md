@@ -11,6 +11,7 @@ CSS3
 JavaScript 
 
 📂 Estructura del proyecto
+
 proyecto-amigo-secreto/
 │
 ├─ index.html                  # Archivo principal HTML
@@ -18,6 +19,7 @@ proyecto-amigo-secreto/
 ├─ app.js                      # Lógica de JavaScript
 ├─ amigo-secreto.png           # Imagen principal
 └─ play_circle_outline.png     # Icono para sortear
+
 
 🖼️ Capturas de pantalla
 
