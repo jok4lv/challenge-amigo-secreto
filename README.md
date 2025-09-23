@@ -63,7 +63,3 @@ Mantener los archivos en la misma ubicación garantiza que la aplicación funcio
 📌 Licencia
 
 Este proyecto es libre para uso personal y educativo. No se requiere atribución.
-
-📌 Licencia
-
-Este proyecto es libre para uso personal y educativo. No se requiere atribución.
