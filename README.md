@@ -12,13 +12,7 @@ JavaScript
 
 📂 Estructura del proyecto
 
-proyecto-amigo-secreto/
-│
-├─ index.html                  # Archivo principal HTML
-├─ style.css                   # Estilos de la aplicación
-├─ app.js                      # Lógica de JavaScript
-├─ amigo-secreto.png           # Imagen principal
-└─ play_circle_outline.png     # Icono para sortear
+<img width="459" height="170" alt="image" src="https://github.com/user-attachments/assets/503bc467-7b38-4379-bda0-47fc3292c156" />
 
 
 🖼️ Capturas de pantalla
